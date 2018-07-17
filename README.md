@@ -23,3 +23,10 @@ Test using SBT:
 ```
 sbt test
 ```
+
+## Todo
+
+- produce to kafka
+- tests
+- add logging library
+- add h2 for unit testing 
